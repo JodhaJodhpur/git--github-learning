@@ -2,3 +2,6 @@ this is diff 1 file
 this is in number 1 folder
 plz check is it updating from git to github 
 through vs code
+adding few more line to check the git push command
+i have added the origin so from know onwards
+i am able to push file by giving git push command only
