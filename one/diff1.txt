@@ -1,2 +1,4 @@
 this is diff 1 file
 this is in number 1 folder
+plz check is it updating from git to github 
+through vs code
